@@ -1,0 +1,61 @@
+.your-container {
+    background-color: #5763a5;
+    padding: 25px;
+    border-radius: 10px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  .sub-your-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .sub2-you-container {
+    display: flex;
+    flex-direction: row;
+  }
+  .your-paragraph {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .password-button {
+    align-self: center;
+    border: 1px solid white;
+    border-radius: 13px;
+    background-color: #5763a5;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 5px;
+    color: white;
+  }
+  .search-container {
+    width: 30px;
+    height: 30px;
+    align-self: center;
+    background-color: white;
+  }
+  .your-input {
+    height: 31px;
+    align-self: center;
+  }
+  .label-paragraph {
+    color: white;
+    justify-self: flex-end;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  .checkbox-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .horizantal-line {
+    background-color: #9ba9eb;
+    width: 100%;
+  }
+  
+  .no-passwords-container {
+    justify-items: center;
+    padding: 30px;
+  }
+  

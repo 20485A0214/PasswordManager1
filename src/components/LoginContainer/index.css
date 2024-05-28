@@ -1,0 +1,29 @@
+.listContainer {
+    border: 1px solid #ffffff;
+    border-radius: 6px;
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  .logo {
+    color: #ffffff;
+    background-color: #10b981;
+    padding: 10px;
+    border-radius: 50%;
+    align-self: flex-start;
+    margin-right: 10px;
+  }
+  .delete-icon {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    align-self: center;
+  }
+  .paragraph {
+    color: white;
+    font-weight: bold;
+  }
+  
